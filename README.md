@@ -1,4 +1,4 @@
 # conference-mvc
 
-# info
+## info
 - Pluralsight's course Spring Web MVC Fundamentals.
